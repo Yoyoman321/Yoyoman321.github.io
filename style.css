@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&family=Caveat:wght@400;500;600;700&display=swap');
+body{
+    font-family: 'Amatic SC', cursive;
+font-family: 'Caveat', cursive;
+margin:0;
+background-image: url(141167-05.jpg);
+}
+.logo{
+    font-size: 45px;
+}
+header{background-image: url(141167-05.jpg);
+}
+
+.sectionbankai{
+    display:flex;
+    align-items: center;
+    background-color: blueviolet;
+
+}
+.sectionbankai>hi{
+    font-weight: 700;
+    font-size: medium;
+    text-align: center;
+    color:brown;
+}
+.sectionbankai>a{
+    text-decoration: none;
+    color:red;
+    font-weight: 400;
+    font-size: larger;
+    border-radius: 5px;
+    background-color: blue;
+}
